@@ -1,5 +1,8 @@
 # Pizza Sales Analysis using SQL
 
+## Dashboard Preview
+![Dashboard Preview](PowerBI_Dashboard/dashboard.png)
+
 ## Project Overview
 This project focuses on analyzing pizza sales data using SQL queries to extract meaningful business insights and Power BI to visualize sales performance.
 
