@@ -1,10 +1,7 @@
-# 🍕Pizza Sales Analysis📈
-##  - using SQL
+# 🍕Pizza Sales Analysis📈 - using SQL
 
-## Dashboard Preview
-<img width="1307" height="730" alt="dashboard" src="https://github.com/user-attachments/assets/01b057cc-e552-4c8a-b9d6-d2802143132f" />
-
-![Dashboard Preview](PowerBI_Dashboard/dashboard.png)
+## 📊Dashboard Preview
+![Dashboard Preview]("C:\Users\Lenovo\OneDrive\Documents\sql_pizzasales project\PowerBI_Dashboard\dashboard.png")
 
 ## 📝Project Overview
 This project focuses on analyzing pizza sales data using SQL queries to extract meaningful business insights and Power BI to visualize sales performance.
