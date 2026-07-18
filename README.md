@@ -1,36 +1,39 @@
-# Pizza Sales Analysis using SQL
+# 🍕Pizza Sales Analysis📈
+##  - using SQL
 
 ## Dashboard Preview
+<img width="1307" height="730" alt="dashboard" src="https://github.com/user-attachments/assets/01b057cc-e552-4c8a-b9d6-d2802143132f" />
+
 ![Dashboard Preview](PowerBI_Dashboard/dashboard.png)
 
-## Project Overview
+## 📝Project Overview
 This project focuses on analyzing pizza sales data using SQL queries to extract meaningful business insights and Power BI to visualize sales performance.
 
-## Objectives
+## 📌Objectives
 - Analyze sales performance
 - Identify best-selling pizzas
 - Calculate revenue trends
 - Understand customer ordering behavior
 
-## Tools & Technologies
+## 🛠️Tools & Technologies
 - SQL
 - Power BI
 - Excel
 - GitHub
 
-## Database Tables
+## 💾Database Tables
 - orders
 - order_details
 - pizzas
 - pizza_types
 
-## Key Insights
+## 🔍Key Insights
 - Classic category generated highest revenue
 - Large size pizzas had maximum sales
 - Peak orders occurred during lunch and evening hours
 - Customer purchasing patterns were analyzed
 
-## Files Included
+## 📑Files Included
 - SQL Queries
 - Dataset
 - Power BI Dashboard
