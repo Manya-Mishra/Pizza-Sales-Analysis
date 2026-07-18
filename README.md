@@ -1,8 +1,5 @@
 # 🍕Pizza Sales Analysis📈 - using SQL
 
-## 📊Dashboard Preview
-![Dashboard Preview]("C:\Users\Lenovo\OneDrive\Documents\sql_pizzasales project\PowerBI_Dashboard\dashboard.png")
-
 ## 📝Project Overview
 This project focuses on analyzing pizza sales data using SQL queries to extract meaningful business insights and Power BI to visualize sales performance.
 
@@ -29,6 +26,9 @@ This project focuses on analyzing pizza sales data using SQL queries to extract 
 - Large size pizzas had maximum sales
 - Peak orders occurred during lunch and evening hours
 - Customer purchasing patterns were analyzed
+  
+## 📊Dashboard Preview
+![Dashboard Preview]("PowerBI_Dashboard\dashboard.png")
 
 ## 📑Files Included
 - SQL Queries
