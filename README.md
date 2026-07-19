@@ -7,12 +7,16 @@ The project focuses on sales trends, customer ordering behavior, revenue analysi
 
 <p align="center">
   <img src="PowerBI_Dashboard/dashboard.png" width="700">
+  <br>
+  <em>Interactive Power BI Dashboard showing sales trends, revenue analysis, and business insights.</em>
 </p>
 
 ## Database Schema
 
 <p align="center">
-  <img src="PowerBI_Dashboard/modelview.png" width="700">
+  <img src="PowerBI_Dashboard/modelview.png" width="500">
+  <br>
+  <em>Relational database model used for SQL-based sales analysis.</em>
 </p>
 
 ## 📝Project Overview
