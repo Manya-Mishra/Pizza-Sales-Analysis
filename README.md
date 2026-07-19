@@ -5,11 +5,15 @@ The project focuses on sales trends, customer ordering behavior, revenue analysi
 
 ## Dashboard Preview
 
-![Dashboard Preview](PowerBI_Dashboard/dashboard.png)
+<p align="center">
+  <img src="PowerBI_Dashboard/dashboard.png" width="700">
+</p>
 
 ## Database Schema
 
-![Database Schema](PowerBI_Dashboard/modelview.png)
+<p align="center">
+  <img src="PowerBI_Dashboard/modelview.png" width="700">
+</p>
 
 ## 📝Project Overview
 This project focuses on analyzing pizza sales data using SQL queries to extract meaningful business insights and Power BI to visualize sales performance.
