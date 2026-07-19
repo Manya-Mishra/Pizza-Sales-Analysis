@@ -1,4 +1,15 @@
-# 🍕Pizza Sales Analysis📈 - using SQL
+# 🍕Pizza Sales Analysis📈 - using SQL & POWER BI
+
+An end-to-end Data Analytics project that analyzes pizza sales data to uncover meaningful business insights using SQL and Power BI. 
+The project focuses on sales trends, customer ordering behavior, revenue analysis, and product performance through data-driven decision-making.
+
+## Dashboard Preview
+
+![Dashboard Preview](PowerBI_Dashboard/dashboard.png)
+
+## Database Schema
+
+![Database Schema](PowerBI_Dashboard/modelview.png)
 
 ## 📝Project Overview
 This project focuses on analyzing pizza sales data using SQL queries to extract meaningful business insights and Power BI to visualize sales performance.
@@ -27,8 +38,6 @@ This project focuses on analyzing pizza sales data using SQL queries to extract 
 - Peak orders occurred during lunch and evening hours
 - Customer purchasing patterns were analyzed
   
-## 📊Dashboard Preview
-![Dashboard Preview]("PowerBI_Dashboard\dashboard.png")
 
 ## 📑Files Included
 - SQL Queries
