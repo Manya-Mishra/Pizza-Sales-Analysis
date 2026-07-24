@@ -152,6 +152,7 @@ Users can dynamically filter the dashboard using:
             <li><strong>Sales Trend:</strong> Daily orders remained relatively stable throughout the month, averaging between <strong>650–800 orders per day</strong>, indicating consistent customer engagement.</li>
             <li><strong>Revenue Concentration:</strong> A small group of top-performing pizza varieties contributed a significant portion of overall revenue, highlighting opportunities for targeted promotions and inventory optimization.</li>
         </ul>       
+
 ---
 
 ## 📝Business Recommendations
@@ -163,7 +164,9 @@ Users can dynamically filter the dashboard using:
         <li>Use sales trend insights to forecast demand more accurately and optimize inventory planning.</li>
         <li>Monitor lower-performing pizza varieties and evaluate promotional strategies to improve their contribution to overall revenue.</li>
     </ul>
+
 ---
+
 
 ## 🔍Project Structure
 
