@@ -141,7 +141,7 @@ Users can dynamically filter the dashboard using:
 ---
 
 ## 👁️‍🗨️Key Insights
-        <ul>
+<ul>
             <li><strong>Total Revenue:</strong> The business generated <strong>$817.86K</strong> in revenue from over <strong>21K customer orders</strong>, demonstrating strong overall sales performance.</li>
             <li><strong>Customer Demand:</strong> More than <strong>50K pizzas</strong> were sold, indicating consistent customer demand across multiple product categories.</li>
             <li><strong>Average Order Value:</strong> Customers spent an average of <strong>$38.31 per order</strong>, providing a benchmark for future pricing and promotional strategies.</li>
@@ -151,8 +151,9 @@ Users can dynamically filter the dashboard using:
             <li><strong>Pizza Size Preference:</strong> <strong>Large-sized pizzas</strong> contributed nearly <strong>46% of total revenue ($375.32K)</strong>, making them the most profitable size segment.</li>
             <li><strong>Sales Trend:</strong> Daily orders remained relatively stable throughout the month, averaging between <strong>650–800 orders per day</strong>, indicating consistent customer engagement.</li>
             <li><strong>Revenue Concentration:</strong> A small group of top-performing pizza varieties contributed a significant portion of overall revenue, highlighting opportunities for targeted promotions and inventory optimization.</li>
-        </ul>  
+        </ul>       
 ---
+
 ## 📝Business Recommendations
   <ul>
         <li>Increase inventory allocation and promotional focus on the Classic category, as it generates the highest revenue.</li>
