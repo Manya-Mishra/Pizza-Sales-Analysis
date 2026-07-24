@@ -138,11 +138,6 @@ The dashboard includes the following KPIs:
             <p>Avg Order Value</p>
         </div>
     </div> 
-    
-- Total Revenue
-- Total Orders
-- Total Pizzas Sold
-- Average Order Value
 
 ---
 
