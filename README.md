@@ -80,8 +80,8 @@ Using SQL and Power BI, these business questions were answered through data anal
 
 <ul>
         <li>Dataset: Pizza Sales Dataset</li>
-        <li>Total Records: 4,000+ Sales Transactions</li>
-        <li>Data Fields: Order ID, Order Date, Pizza Name, Category, Size, Quantity, Price, Revenue</li>
+        <li>Total Records: 21,300+ Sales Transactions</li>
+        <li>Data-Tables Fields: Order ID, Order Date, Pizza Name, Category, Size, Quantity, Price, Revenue</li>
         <li>Data Type: Transactional Sales Data</li>
         <li>Industry Domain: Food & Beverage / Retail Analytics</li>
     </ul>
