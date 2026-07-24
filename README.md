@@ -142,6 +142,19 @@ Users can dynamically filter the dashboard using:
 
 ## 👁️‍🗨️Key Insights
 
+<h2>Key Insights</h2>
+        <ul>
+            <li><strong>Total Revenue:</strong> The business generated <strong>$817.86K</strong> in revenue from over <strong>21K customer orders</strong>, demonstrating strong overall sales performance.</li>
+            <li><strong>Customer Demand:</strong> More than <strong>50K pizzas</strong> were sold, indicating consistent customer demand across multiple product categories.</li>
+            <li><strong>Average Order Value:</strong> Customers spent an average of <strong>$38.31 per order</strong>, providing a benchmark for future pricing and promotional strategies.</li>
+            <li><strong>Top Revenue Category:</strong> The <strong>Classic Pizza category</strong> generated the highest revenue, followed closely by Supreme and Chicken categories.</li>
+            <li><strong>Most Popular Pizza:</strong> <strong>The Classic Deluxe Pizza</strong> emerged as the best-selling product based on total units sold.</li>
+            <li><strong>Peak Ordering Hours:</strong> Order volume peaked during lunch and evening hours, with the highest activity observed between <strong>12 PM–1 PM</strong> and <strong>5 PM–7 PM</strong>.</li>
+            <li><strong>Pizza Size Preference:</strong> <strong>Large-sized pizzas</strong> contributed nearly <strong>46% of total revenue ($375.32K)</strong>, making them the most profitable size segment.</li>
+            <li><strong>Sales Trend:</strong> Daily orders remained relatively stable throughout the month, averaging between <strong>650–800 orders per day</strong>, indicating consistent customer engagement.</li>
+            <li><strong>Revenue Concentration:</strong> A small group of top-performing pizza varieties contributed a significant portion of overall revenue, highlighting opportunities for targeted promotions and inventory optimization.</li>
+        </ul>
+-------------------------------------------
 - Classic pizzas generated the highest revenue, making them the most profitable pizza category.
 
 - Large-sized pizzas contributed the largest share of sales, indicating strong customer preference for larger portions.
