@@ -141,8 +141,6 @@ Users can dynamically filter the dashboard using:
 ---
 
 ## 👁️‍🗨️Key Insights
-
-<h2>Key Insights</h2>
         <ul>
             <li><strong>Total Revenue:</strong> The business generated <strong>$817.86K</strong> in revenue from over <strong>21K customer orders</strong>, demonstrating strong overall sales performance.</li>
             <li><strong>Customer Demand:</strong> More than <strong>50K pizzas</strong> were sold, indicating consistent customer demand across multiple product categories.</li>
@@ -153,20 +151,17 @@ Users can dynamically filter the dashboard using:
             <li><strong>Pizza Size Preference:</strong> <strong>Large-sized pizzas</strong> contributed nearly <strong>46% of total revenue ($375.32K)</strong>, making them the most profitable size segment.</li>
             <li><strong>Sales Trend:</strong> Daily orders remained relatively stable throughout the month, averaging between <strong>650–800 orders per day</strong>, indicating consistent customer engagement.</li>
             <li><strong>Revenue Concentration:</strong> A small group of top-performing pizza varieties contributed a significant portion of overall revenue, highlighting opportunities for targeted promotions and inventory optimization.</li>
-        </ul>
--------------------------------------------
-- Classic pizzas generated the highest revenue, making them the most profitable pizza category.
-
-- Large-sized pizzas contributed the largest share of sales, indicating strong customer preference for larger portions.
-
-- Peak order volumes were observed during lunch and evening hours, highlighting the busiest sales periods.
-
-- Daily order trends revealed variations in customer demand, providing valuable insights for inventory and operational planning.
-
-- SQL-based analysis helped identify top-selling pizzas and customer purchasing patterns.
-
-- Interactive Power BI dashboards enabled dynamic and business-oriented sales analysis through category, size, and date-based filtering.
-  
+        </ul>  
+---
+## 📝Business Recommendations
+  <ul>
+        <li>Increase inventory allocation and promotional focus on the Classic category, as it generates the highest revenue.</li>
+        <li>Introduce premium combo offers centered around Large-sized pizzas to maximize average order value.</li>
+        <li>Schedule additional staff during peak lunch and evening hours to improve service efficiency and reduce wait times.</li>
+        <li>Develop marketing campaigns around best-selling products such as The Classic Deluxe Pizza to increase repeat purchases.</li>
+        <li>Use sales trend insights to forecast demand more accurately and optimize inventory planning.</li>
+        <li>Monitor lower-performing pizza varieties and evaluate promotional strategies to improve their contribution to overall revenue.</li>
+    </ul>
 ---
 
 ## 🔍Project Structure
