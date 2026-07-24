@@ -112,7 +112,25 @@ This project demonstrates practical implementation of:
 ## 📰Key Performance Indicators (KPIs)
 
 The dashboard includes the following KPIs:
-
+<div class="kpi-container">
+        <div class="kpi-card">
+            <h3>$817K+</h3>
+            <p>Total Revenue</p>
+        </div>
+        <div class="kpi-card">
+            <h3>21K+</h3>
+            <p>Total Orders</p>
+        </div>
+        <div class="kpi-card">
+            <h3>49K+</h3>
+            <p>Pizzas Sold</p>
+        </div>
+        <div class="kpi-card">
+            <h3>$38</h3>
+            <p>Avg Order Value</p>
+        </div>
+    </div> 
+    
 - Total Revenue
 - Total Orders
 - Total Pizzas Sold
